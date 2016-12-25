@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+    <meta charset="UTF-8">
+    <title>AngularJS Dependency Injection</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+    <script src="/js/injector.js"></script>
+</head>
+<body>
+    <div ng-controller="controllerA">
+        <h2>Application Message:</h2>
+        {{message}}
+    </div><hr>
+    <div ng-controller="controllerB">
+        <h2>Module Message:</h2>
+        {{message}}
+    </div>
+</body>
+</html>

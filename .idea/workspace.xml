@@ -2,29 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a610c5d1-6235-4911-aacd-dc9f0bcd1f49" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch04/callback_chain.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch04/callback_closure.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch04/callback_parameter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch04/emitter_listener.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch04/nexttick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch04/simple_interval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch04/simple_timer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch05/buffer_concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch05/buffer_copy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch05/buffer_read.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch05/buffer_slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch05/buffer_write.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch05/stream_duplex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch05/stream_piped.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch05/stream_read.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch05/stream_transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch05/stream_write.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch05/zlib_buffers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch05/zlib_file.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ch03/.idea/ch03.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ch03/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ch03/.idea/workspace.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06/file_read.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06/file_read_async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06/file_read_stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06/file_read_sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06/file_readdir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06/file_stats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06/file_write.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06/file_write_async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06/file_write_stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06/file_write_sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch07/html/hello.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch07/http_client_get.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch07/http_client_post.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch07/http_client_static.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch07/http_server_external.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch07/http_server_get.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch07/http_server_post.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch07/http_server_static.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch08/socket_client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch08/socket_server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch09/chef.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch09/child_exec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch09/child_fork.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch09/child_process_exec_file.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch09/child_process_spawn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch09/cluster_client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch09/cluster_server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch09/cluster_worker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch09/process_info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch10/dns_lookup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch10/os_info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch10/util_inherit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch13/collection_create_list_delete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch13/collection_stat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch13/db_connect_object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch13/db_connect_string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch13/db_create_list_delete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch13/db_status.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch14/doc_add.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch14/doc_delete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch14/doc_delete_one.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch14/doc_find.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch14/doc_modify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch14/doc_save.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch14/doc_update.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch14/doc_upsert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch20/node_server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch20/static/first.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch20/static/js/first.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch21/node_server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch21/static/injector.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch21/static/js/injector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch26/auth_server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch26/models/users_model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pro01/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pro01/controller/users_controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pro01/models/users_model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,14 +80,81 @@
     <favorites_list name="MEAN" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="users_model.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pro01/models/users_model.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pro01/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="625">
+              <caret line="25" column="56" lean-forward="false" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pro01/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pro01/views/index.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users_controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pro01/controller/users_controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pro01/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>uset</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,25 +162,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ch04/simple_timer.js" />
-        <option value="$PROJECT_DIR$/ch04/simple_interval.js" />
-        <option value="$PROJECT_DIR$/ch04/nexttick.js" />
-        <option value="$PROJECT_DIR$/ch04/emitter_listener.js" />
-        <option value="$PROJECT_DIR$/ch04/callback_parameter.js" />
-        <option value="$PROJECT_DIR$/ch04/callback_closure.js" />
-        <option value="$PROJECT_DIR$/ch04/callback_chain.js" />
-        <option value="$PROJECT_DIR$/ch05/buffer_write.js" />
-        <option value="$PROJECT_DIR$/ch05/buffer_read.js" />
-        <option value="$PROJECT_DIR$/buffer_copy.js" />
-        <option value="$PROJECT_DIR$/ch05/buffer_slice.js" />
-        <option value="$PROJECT_DIR$/ch05/buffer_concat.js" />
-        <option value="$PROJECT_DIR$/ch05/stream_read.js" />
-        <option value="$PROJECT_DIR$/ch05/stream_write.js" />
-        <option value="$PROJECT_DIR$/ch05/stream_duplex.js" />
-        <option value="$PROJECT_DIR$/ch05/stream-transform.js" />
-        <option value="$PROJECT_DIR$/ch05/stream_piped.js" />
-        <option value="$PROJECT_DIR$/ch05/zlib_buffers.js" />
-        <option value="$PROJECT_DIR$/ch05/zlib_file.js" />
+        <option value="$PROJECT_DIR$/ch10/util_inherit.js" />
+        <option value="$PROJECT_DIR$/ch10/dns_lookup.js" />
+        <option value="$PROJECT_DIR$/ch13/db_connect_object.js" />
+        <option value="$PROJECT_DIR$/ch13/db_connect_string.js" />
+        <option value="$PROJECT_DIR$/ch13/db_create_list_delete.js" />
+        <option value="$PROJECT_DIR$/ch13/db_status.js" />
+        <option value="$PROJECT_DIR$/ch13/collection_create_list_delete.js" />
+        <option value="$PROJECT_DIR$/ch13/collection_stat.js" />
+        <option value="$PROJECT_DIR$/ch14/doc_add.js" />
+        <option value="$PROJECT_DIR$/ch14/doc_find.js" />
+        <option value="$PROJECT_DIR$/ch14/doc_update.js" />
+        <option value="$PROJECT_DIR$/ch14/doc_modify.js" />
+        <option value="$PROJECT_DIR$/ch14/doc_save.js" />
+        <option value="$PROJECT_DIR$/ch14/doc_upsert.js" />
+        <option value="$PROJECT_DIR$/ch14/doc_delete.js" />
+        <option value="$PROJECT_DIR$/ch14/doc_delete_one.js" />
+        <option value="$PROJECT_DIR$/ch20/node_server.js" />
+        <option value="$PROJECT_DIR$/ch20/static/first.html" />
+        <option value="$PROJECT_DIR$/ch20/static/js/first.js" />
+        <option value="$PROJECT_DIR$/ch21/static/injector.html" />
+        <option value="$PROJECT_DIR$/ch21/static/js/injector.js" />
+        <option value="$PROJECT_DIR$/ch26/README.md" />
+        <option value="$PROJECT_DIR$/ch26/.gitignore" />
+        <option value="$PROJECT_DIR$/ch26/auth_server.js" />
+        <option value="$PROJECT_DIR$/ch26/models/users_model.js" />
+        <option value="$PROJECT_DIR$/pro01/models/User.js" />
+        <option value="$PROJECT_DIR$/pro01/public/js/controllers/UserControl.js" />
+        <option value="$PROJECT_DIR$/pro01/models/Users.js" />
+        <option value="$PROJECT_DIR$/pro01/controllers/UserController.js" />
+        <option value="$PROJECT_DIR$/ch26/views/signup.html" />
+        <option value="$PROJECT_DIR$/pro01/public/index.html" />
+        <option value="$PROJECT_DIR$/pro01/routes.js" />
+        <option value="$PROJECT_DIR$/pro01/server.js" />
+        <option value="$PROJECT_DIR$/starter-node-angular-master/server.js" />
+        <option value="$PROJECT_DIR$/test1.html" />
+        <option value="$PROJECT_DIR$/pro02/bin/io.js" />
+        <option value="$PROJECT_DIR$/pro02/bin/www" />
+        <option value="$PROJECT_DIR$/pro02/routes/users.js" />
+        <option value="$PROJECT_DIR$/pro02/views/login.ejs" />
+        <option value="$PROJECT_DIR$/pro02/views/logout.ejs" />
+        <option value="$PROJECT_DIR$/pro02/controller/userController.js" />
+        <option value="$PROJECT_DIR$/pro02/views/index.ejs" />
+        <option value="$PROJECT_DIR$/pro02/routes/index.js" />
+        <option value="$PROJECT_DIR$/pro02/app.js" />
+        <option value="$PROJECT_DIR$/pro01/models/users_model.js" />
+        <option value="$PROJECT_DIR$/pro01/package.json" />
+        <option value="$PROJECT_DIR$/pro01/app.js" />
+        <option value="$PROJECT_DIR$/pro01/views/index.ejs" />
+        <option value="$PROJECT_DIR$/pro01/routes/index.js" />
+        <option value="$PROJECT_DIR$/pro01/controller/users_controller.js" />
+        <option value="$PROJECT_DIR$/pro01/.gitignore" />
       </list>
     </option>
   </component>
@@ -86,6 +221,10 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/pro01/node_modules" />
+    <handled-path value="$PROJECT_DIR$/starter-node-angular-master/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -111,6 +250,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -123,9 +263,112 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEAN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEAN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pro01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEAN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEAN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pro01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEAN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEAN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pro01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEAN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEAN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pro01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEAN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEAN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pro01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEAN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MEAN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pro01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -134,10 +377,18 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\재영\Desktop\MEAN\pro01" />
+      <recent name="C:\Users\재영\Desktop\MEAN\ch07\html" />
       <recent name="C:\Users\재영\Desktop\MEAN\ch05" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\재영\Desktop\MEAN\ch21" />
     </key>
   </component>
   <component name="RunManager">
@@ -212,23 +463,28 @@
       <option name="presentableId" value="Default" />
       <updated>1482399354287</updated>
       <workItem from="1482399355553" duration="9098000" />
-      <workItem from="1482453427057" duration="13000" />
+      <workItem from="1482453427057" duration="15313000" />
+      <workItem from="1482544997548" duration="4600000" />
+      <workItem from="1482561044834" duration="8920000" />
+      <workItem from="1482631120712" duration="1969000" />
+      <workItem from="1482644597484" duration="21085000" />
+      <workItem from="1482668385979" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9111000" />
+    <option name="totallyTimeSpent" value="61025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14895834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -252,225 +508,251 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch05/buffer_write.js">
+    <entry file="file://$PROJECT_DIR$/ch13/collection_stat.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding />
+        <state relative-caret-position="100">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/buffer_read.js">
+    <entry file="file://$PROJECT_DIR$/ch14/doc_add.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="400">
+          <caret line="16" column="77" lean-forward="false" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="77" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/buffer_concat.js">
+    <entry file="file://$PROJECT_DIR$/ch14/doc_find.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="54" lean-forward="true" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-          <folding />
+        <state relative-caret-position="600">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/stream_read.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/stream_write.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/stream_duplex.js">
+    <entry file="file://$PROJECT_DIR$/ch14/doc_update.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
-          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-          <folding />
+          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/stream_transform.js">
+    <entry file="file://$PROJECT_DIR$/ch14/doc_modify.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="3" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="21" selection-end-column="3" />
-          <folding />
+        <state relative-caret-position="450">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/stream_piped.js">
+    <entry file="file://$PROJECT_DIR$/ch14/doc_save.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="30" column="10" lean-forward="false" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="125">
+          <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/zlib_buffers.js">
+    <entry file="file://$PROJECT_DIR$/ch14/doc_upsert.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
-          <folding />
+        <state relative-caret-position="475">
+          <caret line="19" column="65" lean-forward="false" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/zlib_file.js">
+    <entry file="file://$PROJECT_DIR$/ch14/doc_delete.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch14/doc_delete_one.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="3" lean-forward="false" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch21/static/js/first.js" />
+    <entry file="file://$PROJECT_DIR$/ch26/package.json" />
+    <entry file="file://$PROJECT_DIR$/ch26/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/ch26/README.md" />
+    <entry file="file://$PROJECT_DIR$/ch20/static/js/first.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch20/node_server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch20/static/first.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch26/views/user.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch04/simple_timer.js">
+    <entry file="file://$PROJECT_DIR$/ch26/models/users_model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch26/controllers/users_controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch04/nexttick.js">
+    <entry file="file://$PROJECT_DIR$/pro01/routes.js" />
+    <entry file="file://$PROJECT_DIR$/ch26/auth_server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        <state relative-caret-position="400">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch04/simple_interval.js">
+    <entry file="file://$PROJECT_DIR$/pro01/server.js" />
+    <entry file="file://$PROJECT_DIR$/pro01/models/Users.js" />
+    <entry file="file://$PROJECT_DIR$/pro01/controllers/UserController.js" />
+    <entry file="file://$PROJECT_DIR$/starter-node-angular-master/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state relative-caret-position="725">
+          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch04/emitter_listener.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch04/callback_parameter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch04/callback_closure.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch04/callback_chain.js">
+    <entry file="file://$PROJECT_DIR$/pro01/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/test1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
-          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/buffer_slice.js">
+    <entry file="file://$PROJECT_DIR$/pro02/bin/io.js" />
+    <entry file="file://$PROJECT_DIR$/pro02/package.json" />
+    <entry file="file://$PROJECT_DIR$/pro02/views/login.ejs" />
+    <entry file="file://$PROJECT_DIR$/pro02/views/logout.ejs" />
+    <entry file="file://$PROJECT_DIR$/ch26/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/buffer_copy.js">
+    <entry file="file://$PROJECT_DIR$/ch21/static/injector.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="150">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="96" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/buffer_read.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/buffer_write.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/buffer_concat.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/stream_read.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/stream_write.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/stream_duplex.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/stream_transform.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="3" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="21" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/stream_piped.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="30" column="10" lean-forward="false" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/zlib_buffers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/zlib_file.js">
+    <entry file="file://$PROJECT_DIR$/pro02/routes/users.js" />
+    <entry file="file://$PROJECT_DIR$/pro02/views/index.ejs" />
+    <entry file="file://$PROJECT_DIR$/ch21/static/js/injector.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro02/controller/userController.js" />
+    <entry file="file://$PROJECT_DIR$/pro02/bin/www" />
+    <entry file="file://$PROJECT_DIR$/pro02/routes/index.js" />
+    <entry file="file://$PROJECT_DIR$/pro02/app.js" />
+    <entry file="file://$PROJECT_DIR$/pro01/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro01/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch26/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch26/static/js/my_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro01/models/users_model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch26/views/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro01/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="56" lean-forward="false" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro01/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro01/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro01/controller/users_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro01/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
       </provider>
